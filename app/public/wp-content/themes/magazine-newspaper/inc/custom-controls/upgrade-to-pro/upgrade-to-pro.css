@@ -1,0 +1,86 @@
+#customize-controls .control-section-upgrade-to-pro .accordion-section-title:hover,
+#customize-controls .control-section-upgrade-to-pro .accordion-section-title:focus {
+	background-color: #fff;
+}
+
+.control-section-pro-version h3 {
+  margin: 0;
+  padding: 1px 0;
+  border: 0;
+  position: relative;
+  color: #fff;
+  background-color: #2271b1;
+}
+
+.control-section-pro-version h3 a {
+  background: #fff;
+  display: block;
+  padding: 11px 10px 12px 14px;
+  text-decoration: none;
+  color: #2271b1;
+}
+
+.control-section-pro-version h3 a::after {
+  content: "\f345";
+  position: absolute;
+  top: 11px;
+  right: 10px;
+  z-index: 1;
+  float: right;
+  border: none;
+  background: 0 0;
+  font: normal 20px/1 dashicons;
+  speak: none;
+  display: block;
+  padding: 0;
+  text-indent: 0;
+  text-align: center;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.upgrade-to-pro-container {
+	padding-top: 32px;
+	margin-top: 32px;
+  border-top: 2px solid #d4d4d4;
+}
+
+.upgrade-to-pro-logo {
+	text-align: center;
+}
+
+.upgrade-to-pro-title {
+	text-align: center;
+	font-size: 13px;
+	line-height: 1.5;
+}
+
+.upgrade-to-pro-items {
+	margin: 15px 0px;
+}
+
+.upgrade-to-pro-item {
+	margin-bottom: 10px;
+	display: flex;
+	font-weight: 600;
+	line-height: 1;
+}
+
+.upgrade-to-pro-item-title {
+	margin-left: 10px;
+}
+
+.upgrade-to-pro-button {
+	display: block;
+	padding: 10px 0;
+	border-radius: 2px;
+	font-size: 13px !important;
+	font-weight: 400;
+	line-height: 13px !important;
+	text-align: center;
+	cursor: pointer;
+	background-color: #ffffff;
+	color: #0284c7;
+	border: 1px solid #0284c7;
+	text-decoration: none;
+}

@@ -1,0 +1,18 @@
+li#accordion-section-magazine_newspaper_sort_homepage_sections .accordion-section-title:after,
+li#accordion-section-magazine_newspaper_header_ad_sections .accordion-section-title:after,
+li#accordion-section-magazine_newspaper_ad_slider_section .accordion-section-title:after{
+  content: "PRO";
+  padding: 4px 10px;
+  background: #0085ba;
+  color: #fff !important;
+  font: unset;
+  line-height: 18px;
+  border-radius: 5px;
+  font-size: 12px;
+}
+
+#customize-controls .control-section:hover>li#accordion-section-magazine_newspaper_sort_homepage_sections .accordion-section-title:after,
+#customize-controls .control-section:hover>li#accordion-section-magazine_newspaper_header_ad_sections .accordion-section-title:after,
+#customize-controls .control-section:hover>li#accordion-section-magazine_newspaper_ad_slider_section .accordion-section-title:after{
+  color: #fff;
+} 

@@ -1,0 +1,28 @@
+
+#sub-accordion-panel-jason_portfolio_resume_front_page_options h3.accordion-section-title:before{
+    content: "\f333";
+    font-family: dashicons;
+    margin-right: 10px;
+    cursor: move;
+}
+#sub-accordion-panel-jason_portfolio_resume_front_page_options li > h3.accordion-section-title {
+    display: flex;
+    align-items: center;
+    padding: 10px !important;
+}
+#sub-accordion-panel-jason_portfolio_resume_front_page_options li > h3.accordion-section-title button {
+    padding: 0 !important;
+}
+#sub-accordion-panel-jason_portfolio_resume_front_page_options li > h3.accordion-section-title a {
+    margin: 0 30px 0 auto;
+}
+.ui-state-highlight{
+    border: 1px dashed;
+    width: 90%;
+    height: 44px;
+}
+
+#accordion-panel-your_panel_name .accordion-section.ui-sortable-helper,
+#sub-accordion-panel-your_panel_name .accordion-section.ui-sortable-helper {
+    box-shadow: 0px 0px 30px -2px rgba(0,0,0,0.46);
+}

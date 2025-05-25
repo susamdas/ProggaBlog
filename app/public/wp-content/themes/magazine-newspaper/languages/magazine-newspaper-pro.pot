@@ -1,0 +1,1160 @@
+# Copyright (C) 2024 thebootstrapthemes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Magazine Newspaper Pro 3.3.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/magazine-newspaper\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-03-27T14:58:23+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: magazine-newspaper\n"
+
+#. Theme Name of the theme
+msgid "Magazine Newspaper Pro"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://thebootstrapthemes.com/magazine-newspaper/"
+msgstr ""
+
+#. Description of the theme
+msgid "Magazine Newspaper build for newspaper, media, magazine related project. This theme is a minimalist and fully responsive multipurpose theme with full WordPress Customizer integration, that enables you to customize your website with live preview. This theme is very lightweight and easy to use. This is one of  the best WordPress theme designed for newspaper, magazine, photographers, personal portfolio, travel blogging, travel bloggers, colleges, universities, small medium and large scale businesses, corporates, lawyers, bloggers, restaurants, weddings, hotels, churches, salons, fitness, resorts, ecommerce, businesses, creative freelancers, professionals etc. and also supports woocommerce. We provide you free wordpress theme that is SEO friendly and customizable according to your necessity and desire, which helps you make a positive impression on potential clients by showcasing your visual works in the best possible way. Live Demo - http://thebootstrapthemes.com/preview/?demo=magazine-newspaper , Theme Details - https://thebootstrapthemes.com/downloads/free-magazine-newspaper-wordpress-theme/ , Theme Documentation - https://thebootstrapthemes.com/magazine-newspaper-wordpress-theme-documentation/"
+msgstr ""
+
+#. Author of the theme
+msgid "thebootstrapthemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://thebootstrapthemes.com"
+msgstr ""
+
+#: 404.php:30
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:35
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: archive.php:75
+#: index.php:72
+#: template-parts/home-sections/detail-news-section.php:74
+msgid "More posts"
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:21
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:21
+msgid "https://wordpress.org"
+msgstr ""
+
+#: footer.php:21
+msgid "WordPress"
+msgstr ""
+
+#: footer.php:21
+msgid "Theme by"
+msgstr ""
+
+#: footer.php:21
+msgid "TheBootstrapThemes"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Fullwidth"
+msgstr ""
+
+#: functions.php:92
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:93
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:167
+msgid "Please disable ad blocker!"
+msgstr ""
+
+#: header.php:28
+msgid "Facebook"
+msgstr ""
+
+#: header.php:33
+msgid "Twitter"
+msgstr ""
+
+#: header.php:38
+msgid "Google Plus"
+msgstr ""
+
+#: header.php:43
+msgid "Youtube"
+msgstr ""
+
+#: header.php:48
+msgid "Linkedin"
+msgstr ""
+
+#: header.php:53
+msgid "Pinterest"
+msgstr ""
+
+#: header.php:58
+msgid "Instagram"
+msgstr ""
+
+#: inc/admin/dashboard.php:51
+msgid "%1$s action required"
+msgid_plural "%1$s actions required"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/dashboard.php:53
+msgid "Magazine Newspaper %s"
+msgstr ""
+
+#: inc/admin/dashboard.php:55
+#: inc/admin/dashboard.php:58
+#: inc/customizer/sections/upgrade-to-pro.php:12
+msgid "Magazine Newspaper"
+msgstr ""
+
+#: inc/admin/dashboard.php:103
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#: inc/admin/dashboard.php:104
+msgid "%s"
+msgstr ""
+
+#: inc/admin/dashboard.php:110
+msgid "Getting Started"
+msgstr ""
+
+#: inc/admin/dashboard.php:111
+msgid "Demo Import"
+msgstr ""
+
+#: inc/admin/dashboard.php:113
+msgid "Get Premium"
+msgstr ""
+
+#: inc/admin/dashboard.php:143
+msgid "Details"
+msgstr ""
+
+#: inc/admin/dashboard.php:160
+msgid "Required Plugins"
+msgstr ""
+
+#: inc/admin/dashboard.php:162
+msgid "To take full advantage of the %s functionality, please install the following plugins."
+msgstr ""
+
+#: inc/admin/dashboard.php:173
+#: inc/admin/dashboard.php:179
+msgid "Import Demo content"
+msgstr ""
+
+#: inc/admin/dashboard.php:175
+msgid "Save time by importing the Demo Content with just a couple of clicks. Your website will be set up and ready to customize in minutes!"
+msgstr ""
+
+#: inc/admin/dashboard.php:176
+msgid "Have you already imported the Demo Content? Feel free to close this message."
+msgstr ""
+
+#: inc/admin/dashboard.php:185
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/admin/dashboard.php:186
+msgid "With %s, you can easily customize all theme settings using the Theme Customizer. Begin customizing your site by clicking on \"Customize\"."
+msgstr ""
+
+#: inc/admin/dashboard.php:188
+msgid "Customize your site"
+msgstr ""
+
+#: inc/admin/dashboard.php:192
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/admin/dashboard.php:193
+msgid "Need help with setting up and configuring the %s theme? Please, take a look at our documentation pages."
+msgstr ""
+
+#: inc/admin/dashboard.php:195
+msgid "Check Documentation"
+msgstr ""
+
+#: inc/admin/dashboard.php:199
+msgid "Theme Support"
+msgstr ""
+
+#: inc/admin/dashboard.php:200
+msgid "Require further assistance with your %s theme? Please describe your issue in the contact form. We love helping our customers with their WordPress sites!"
+msgstr ""
+
+#: inc/admin/dashboard.php:202
+msgid "Contact Us"
+msgstr ""
+
+#: inc/admin/dashboard.php:218
+msgid "To import a Demo site, you must first install and activate the %1$s plugin."
+msgstr ""
+
+#: inc/admin/dashboard.php:324
+msgid "Get %s Pro now!"
+msgstr ""
+
+#: inc/admin/dashboard.php:337
+msgid "Enjoyed %1$s? Please leave us a %2$s review. Your support means a lot to us!"
+msgstr ""
+
+#: inc/admin/dashboard.php:433
+msgid "Install Now"
+msgstr ""
+
+#: inc/admin/dashboard.php:443
+msgid "Activate Now"
+msgstr ""
+
+#: inc/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#. Translators: %s is the search query.
+#: inc/breadcrumbs.php:270
+msgid "Search results for: %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:272
+msgid "Page %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:274
+msgid "Comment Page %s"
+msgstr ""
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:276
+msgid "Minute %s"
+msgstr ""
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:278
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/breadcrumbs.php:788
+#: inc/breadcrumbs.php:817
+#: inc/breadcrumbs.php:844
+#: inc/breadcrumbs.php:871
+#: inc/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/breadcrumbs.php:789
+#: inc/breadcrumbs.php:845
+#: inc/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/breadcrumbs.php:790
+#: inc/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/custom-controls/dropdown-taxonomies/class-dropdown-taxonomies-control.php:42
+msgid "Select"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:74
+msgid "row"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:82
+msgid "Add new %s"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:238
+msgid "Limit: %s rows"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:369
+msgid "Hex Value"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:399
+msgid "No Image Selected"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:404
+#: inc/custom-controls/repeater/class-control-repeater.php:469
+msgid "Remove"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:407
+msgid "Change Image"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:409
+msgid "Add Image"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:435
+msgid "No File Selected"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:443
+msgid "Change File"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:445
+msgid "Add File"
+msgstr ""
+
+#: inc/customizer/panels/advertisement-options.php:13
+#: inc/customizer/panels/advertisement-options.php:14
+msgid "Advertisement Options"
+msgstr ""
+
+#: inc/customizer/panels/general-options.php:13
+#: inc/customizer/panels/general-options.php:14
+msgid "General Options"
+msgstr ""
+
+#: inc/customizer/panels/header-options.php:13
+#: inc/customizer/panels/header-options.php:14
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer/panels/theme-options.php:13
+#: inc/customizer/panels/theme-options.php:14
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/render-functions.php:10
+msgid "Powered by <a href=\"https://wordpress.org\">WordPress</a> | Theme by <a href=\"https://thebootstrapthemes.com/\">TheBootstrapThemes</a>"
+msgstr ""
+
+#: inc/customizer/sections/ad-options/ad-slider.php:13
+#: inc/customizer/sections/sort-homepage-section.php:41
+msgid "Advertisement Slider"
+msgstr ""
+
+#: inc/customizer/sections/ad-options/ad-slider.php:27
+msgid "Enable Advertisement Slider"
+msgstr ""
+
+#: inc/customizer/sections/ad-options/ad-slider.php:49
+msgid "Slider Items"
+msgstr ""
+
+#: inc/customizer/sections/ad-options/ad-slider.php:53
+msgid "Advertisement Image"
+msgstr ""
+
+#: inc/customizer/sections/ad-options/ad-slider.php:58
+msgid "Advertisement Link"
+msgstr ""
+
+#: inc/customizer/sections/ad-options/ad-slider.php:64
+msgid "Slider Item"
+msgstr ""
+
+#: inc/customizer/sections/ad-options/ad-slider.php:78
+#: inc/customizer/sections/ad-options/header-ad.php:84
+msgid "Looking to make some extra money from your blog? Monetize your website easily with this option."
+msgstr ""
+
+#: inc/customizer/sections/ad-options/ad-slider.php:81
+msgid "Place advertisement slider to the body of your website"
+msgstr ""
+
+#: inc/customizer/sections/ad-options/ad-slider.php:85
+#: inc/customizer/sections/ad-options/header-ad.php:91
+#: inc/customizer/sections/general-options/blog-options.php:96
+#: inc/customizer/sections/general-options/colors.php:201
+#: inc/customizer/sections/general-options/fonts.php:216
+#: inc/customizer/sections/general-options/footer.php:52
+#: inc/customizer/sections/header-options/header-layout.php:73
+#: inc/customizer/sections/sort-homepage-section.php:65
+#: inc/customizer/sections/theme-options/banner-news.php:132
+msgid "Upgrade Now"
+msgstr ""
+
+#: inc/customizer/sections/ad-options/header-ad.php:13
+msgid "Header Advertisement"
+msgstr ""
+
+#: inc/customizer/sections/ad-options/header-ad.php:27
+msgid "Enable Header Ad"
+msgstr ""
+
+#: inc/customizer/sections/ad-options/header-ad.php:44
+msgid "Upload ad Advertisement"
+msgstr ""
+
+#: inc/customizer/sections/ad-options/header-ad.php:58
+msgid "Advertisement Link :"
+msgstr ""
+
+#: inc/customizer/sections/ad-options/header-ad.php:59
+msgid "Image Advertisement Link goes here."
+msgstr ""
+
+#: inc/customizer/sections/ad-options/header-ad.php:71
+msgid "Google Ads Script :"
+msgstr ""
+
+#: inc/customizer/sections/ad-options/header-ad.php:72
+msgid "You can insert Google ads script here"
+msgstr ""
+
+#: inc/customizer/sections/ad-options/header-ad.php:87
+msgid "Place advertisement banner at the header of your website"
+msgstr ""
+
+#: inc/customizer/sections/general-options/blog-options.php:14
+msgid "Blog Options"
+msgstr ""
+
+#: inc/customizer/sections/general-options/blog-options.php:15
+msgid "Customize Options on the Blog Page"
+msgstr ""
+
+#: inc/customizer/sections/general-options/blog-options.php:29
+#: inc/customizer/sections/general-options/post-options.php:28
+#: inc/customizer/sections/theme-options/detail-news.php:139
+#: inc/customizer/sections/theme-options/recent-news.php:154
+msgid "Select sidebar layout"
+msgstr ""
+
+#: inc/customizer/sections/general-options/blog-options.php:34
+#: inc/customizer/sections/general-options/post-options.php:33
+#: inc/customizer/sections/theme-options/detail-news.php:144
+#: inc/customizer/sections/theme-options/recent-news.php:159
+msgid "Sidebar at left"
+msgstr ""
+
+#: inc/customizer/sections/general-options/blog-options.php:35
+#: inc/customizer/sections/general-options/post-options.php:34
+#: inc/customizer/sections/theme-options/detail-news.php:145
+#: inc/customizer/sections/theme-options/recent-news.php:160
+msgid "Sidebar at right"
+msgstr ""
+
+#: inc/customizer/sections/general-options/blog-options.php:36
+#: inc/customizer/sections/general-options/post-options.php:35
+#: inc/customizer/sections/theme-options/detail-news.php:146
+#: inc/customizer/sections/theme-options/recent-news.php:161
+msgid "No sidebar"
+msgstr ""
+
+#: inc/customizer/sections/general-options/blog-options.php:48
+#: inc/customizer/sections/general-options/post-options.php:47
+#: inc/customizer/sections/theme-options/banner-news.php:86
+#: inc/customizer/sections/theme-options/detail-news.php:108
+msgid "Hide / Show Details"
+msgstr ""
+
+#: inc/customizer/sections/general-options/blog-options.php:53
+#: inc/customizer/sections/general-options/post-options.php:52
+#: inc/customizer/sections/theme-options/detail-news.php:113
+msgid "Show post author"
+msgstr ""
+
+#: inc/customizer/sections/general-options/blog-options.php:54
+#: inc/customizer/sections/general-options/post-options.php:53
+#: inc/customizer/sections/theme-options/detail-news.php:114
+msgid "Show post date"
+msgstr ""
+
+#: inc/customizer/sections/general-options/blog-options.php:55
+#: inc/customizer/sections/general-options/post-options.php:54
+#: inc/customizer/sections/theme-options/banner-news.php:92
+#: inc/customizer/sections/theme-options/detail-news.php:115
+msgid "Show Categories"
+msgstr ""
+
+#: inc/customizer/sections/general-options/blog-options.php:56
+#: inc/customizer/sections/general-options/post-options.php:55
+#: inc/customizer/sections/theme-options/detail-news.php:116
+msgid "Show Tags"
+msgstr ""
+
+#: inc/customizer/sections/general-options/blog-options.php:57
+#: inc/customizer/sections/general-options/post-options.php:56
+#: inc/customizer/sections/theme-options/detail-news.php:117
+msgid "Show number of comments"
+msgstr ""
+
+#: inc/customizer/sections/general-options/blog-options.php:71
+#: inc/customizer/sections/theme-options/detail-news.php:73
+msgid "Select your post view"
+msgstr ""
+
+#: inc/customizer/sections/general-options/blog-options.php:75
+#: inc/customizer/sections/theme-options/detail-news.php:77
+msgid "List View"
+msgstr ""
+
+#: inc/customizer/sections/general-options/blog-options.php:76
+#: inc/customizer/sections/theme-options/detail-news.php:78
+msgid "Grid View"
+msgstr ""
+
+#: inc/customizer/sections/general-options/blog-options.php:77
+#: inc/customizer/sections/theme-options/detail-news.php:79
+msgid "Fullwidth View"
+msgstr ""
+
+#: inc/customizer/sections/general-options/blog-options.php:89
+msgid "Choose how to arrange blog posts on the homepage."
+msgstr ""
+
+#: inc/customizer/sections/general-options/blog-options.php:92
+msgid "Select from three different blog post layouts"
+msgstr ""
+
+#: inc/customizer/sections/general-options/colors.php:15
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/sections/general-options/colors.php:34
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer/sections/general-options/colors.php:50
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/customizer/sections/general-options/colors.php:66
+msgid "Primary Font"
+msgstr ""
+
+#: inc/customizer/sections/general-options/colors.php:82
+msgid "Secondary Font"
+msgstr ""
+
+#: inc/customizer/sections/general-options/colors.php:98
+msgid "Buttons"
+msgstr ""
+
+#: inc/customizer/sections/general-options/colors.php:114
+msgid "H1 Heading Title"
+msgstr ""
+
+#: inc/customizer/sections/general-options/colors.php:130
+msgid "H2 Heading"
+msgstr ""
+
+#: inc/customizer/sections/general-options/colors.php:146
+msgid "H3 Heading"
+msgstr ""
+
+#: inc/customizer/sections/general-options/colors.php:162
+msgid "H4,H5,H6 Headings"
+msgstr ""
+
+#: inc/customizer/sections/general-options/colors.php:178
+msgid "Heading Links"
+msgstr ""
+
+#: inc/customizer/sections/general-options/colors.php:194
+msgid "Choose colors that perfectly align with your brand."
+msgstr ""
+
+#: inc/customizer/sections/general-options/colors.php:197
+msgid "Multiple color palettes for the most important sections of your website"
+msgstr ""
+
+#: inc/customizer/sections/general-options/fonts.php:14
+msgid "Fonts"
+msgstr ""
+
+#: inc/customizer/sections/general-options/fonts.php:15
+msgid "Fonts :"
+msgstr ""
+
+#: inc/customizer/sections/general-options/fonts.php:36
+msgid "Choose Font Family For Your Site"
+msgstr ""
+
+#: inc/customizer/sections/general-options/fonts.php:52
+msgid "Choose Font Size"
+msgstr ""
+
+#: inc/customizer/sections/general-options/fonts.php:77
+#: inc/customizer/sections/general-options/fonts.php:160
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer/sections/general-options/fonts.php:97
+msgid "Line Height"
+msgstr ""
+
+#: inc/customizer/sections/general-options/fonts.php:128
+msgid "Heading Options :"
+msgstr ""
+
+#: inc/customizer/sections/general-options/fonts.php:143
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/sections/general-options/fonts.php:190
+msgid "Heading "
+msgstr ""
+
+#: inc/customizer/sections/general-options/fonts.php:190
+msgid " Size"
+msgstr ""
+
+#: inc/customizer/sections/general-options/fonts.php:209
+msgid "Customize your typography with options such as size, line height, and font weight."
+msgstr ""
+
+#: inc/customizer/sections/general-options/fonts.php:212
+msgid "Choose from over 850 Google Fonts"
+msgstr ""
+
+#: inc/customizer/sections/general-options/footer.php:13
+msgid "Footer Section"
+msgstr ""
+
+#: inc/customizer/sections/general-options/footer.php:14
+msgid "Footer text"
+msgstr ""
+
+#: inc/customizer/sections/general-options/footer.php:26
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/sections/general-options/footer.php:45
+msgid "Want the full control over your copyright?"
+msgstr ""
+
+#: inc/customizer/sections/general-options/footer.php:48
+msgid "Remove WordPress links from the copyright"
+msgstr ""
+
+#: inc/customizer/sections/general-options/pagination.php:14
+msgid "Pagination"
+msgstr ""
+
+#: inc/customizer/sections/general-options/pagination.php:28
+msgid "Choose pagination style"
+msgstr ""
+
+#: inc/customizer/sections/general-options/pagination.php:33
+msgid "Number Pagination"
+msgstr ""
+
+#: inc/customizer/sections/general-options/pagination.php:34
+msgid "Ajax Loadmore"
+msgstr ""
+
+#: inc/customizer/sections/general-options/post-options.php:13
+msgid "Post Options"
+msgstr ""
+
+#: inc/customizer/sections/general-options/post-options.php:14
+msgid "Single Post Options of default Layout"
+msgstr ""
+
+#: inc/customizer/sections/general-options/post-options.php:57
+msgid "Show Author Block"
+msgstr ""
+
+#: inc/customizer/sections/header-options/header-layout.php:13
+msgid "Header Layout"
+msgstr ""
+
+#: inc/customizer/sections/header-options/header-layout.php:25
+msgid "Main menu sticky?"
+msgstr ""
+
+#: inc/customizer/sections/header-options/header-layout.php:26
+msgid "Check the box to make the main menu sticky."
+msgstr ""
+
+#: inc/customizer/sections/header-options/header-layout.php:42
+#: inc/customizer/sections/theme-options/banner-news.php:105
+msgid "Layouts"
+msgstr ""
+
+#: inc/customizer/sections/header-options/header-layout.php:66
+msgid "Arrange the elements in the header of your website to match your preferred style."
+msgstr ""
+
+#: inc/customizer/sections/header-options/header-layout.php:69
+msgid "Choose between five beautiful layouts for your website header"
+msgstr ""
+
+#: inc/customizer/sections/header-options/header-search.php:13
+msgid "Header Search"
+msgstr ""
+
+#: inc/customizer/sections/header-options/header-search.php:26
+msgid "Hide / Show Header Search"
+msgstr ""
+
+#: inc/customizer/sections/header-options/site-identity.php:42
+msgid "Title Color"
+msgstr ""
+
+#: inc/customizer/sections/header-options/site-identity.php:58
+msgid "Title Size"
+msgstr ""
+
+#: inc/customizer/sections/header-options/site-identity.php:75
+msgid "Title Font Family"
+msgstr ""
+
+#: inc/customizer/sections/header-options/social-media.php:12
+#: inc/customizer/sections/header-options/social-media.php:13
+#: inc/customizer/sections/header-options/social-media.php:50
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer/sections/header-options/social-media.php:29
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer/sections/header-options/social-media.php:33
+msgid "Social Media Title"
+msgstr ""
+
+#: inc/customizer/sections/header-options/social-media.php:34
+msgid "This will be the label."
+msgstr ""
+
+#: inc/customizer/sections/header-options/social-media.php:39
+msgid "Social Media Class"
+msgstr ""
+
+#: inc/customizer/sections/header-options/social-media.php:44
+msgid "Social Media Links"
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:12
+#: inc/customizer/sections/sort-homepage-section.php:13
+msgid "Rearrange Home Sections"
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:34
+msgid "Drag and Drop Sections to rearrange."
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:40
+msgid "Top News Section"
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:42
+msgid "Banner News Section"
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:43
+msgid "Recent News Section"
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:44
+msgid "Detail News Section"
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:45
+msgid "Popular News Section"
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:58
+msgid "Rearrange homepage sections and prioritize what your visitors should see first."
+msgstr ""
+
+#: inc/customizer/sections/sort-homepage-section.php:61
+msgid "Rearrange sections on the Homepage"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/banner-news.php:13
+msgid "Banner News"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/banner-news.php:14
+msgid "Banner News section."
+msgstr ""
+
+#: inc/customizer/sections/theme-options/banner-news.php:27
+msgid "Show Banner News"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/banner-news.php:44
+msgid "Banner News Title"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/banner-news.php:58
+msgid "Banner News Category"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/banner-news.php:72
+#: inc/customizer/sections/theme-options/popular-news.php:56
+#: inc/customizer/sections/theme-options/recent-news.php:81
+#: inc/customizer/sections/theme-options/recent-news.php:129
+#: inc/customizer/sections/theme-options/top-news.php:69
+msgid "Number of posts"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/banner-news.php:73
+msgid "put -1 for unlimited"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/banner-news.php:91
+msgid "Show date"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/banner-news.php:125
+msgid "Choose how your banner will look like."
+msgstr ""
+
+#: inc/customizer/sections/theme-options/banner-news.php:128
+msgid "Choose between three beautiful banner layouts"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/breaking-news.php:13
+msgid "Breaking News"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/breaking-news.php:14
+msgid "Breaking News section."
+msgstr ""
+
+#: inc/customizer/sections/theme-options/breaking-news.php:27
+msgid "Show Breaking News"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/breaking-news.php:44
+msgid "Breaking News Title"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/breaking-news.php:58
+msgid "Breaking News Category"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/detail-news.php:13
+msgid "Detail News"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/detail-news.php:14
+msgid "Detail News section."
+msgstr ""
+
+#: inc/customizer/sections/theme-options/detail-news.php:27
+msgid "Show Detail News"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/detail-news.php:44
+msgid "Detail News Title"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/detail-news.php:57
+msgid "Detail News Category"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/detail-news.php:92
+msgid "Upgrade to Pro to change post layout"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/popular-news.php:13
+msgid "Popular News"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/popular-news.php:14
+msgid "Popular News section."
+msgstr ""
+
+#: inc/customizer/sections/theme-options/popular-news.php:27
+msgid "Show Popular News"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/popular-news.php:44
+msgid "Popular News Title"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/recent-news.php:24
+msgid "Recent News"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/recent-news.php:25
+msgid "Recent News section."
+msgstr ""
+
+#: inc/customizer/sections/theme-options/recent-news.php:38
+msgid "Show Recent News"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/recent-news.php:55
+msgid "Recent News Title"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/recent-news.php:68
+msgid "Recent News Category"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/recent-news.php:108
+#: inc/customizer/sections/theme-options/recent-news.php:124
+msgid "Category News"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/recent-news.php:109
+msgid "Add one or more sections"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/recent-news.php:113
+msgid "Category section"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/recent-news.php:119
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/top-news.php:13
+msgid "Top News"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/top-news.php:14
+msgid "Top News section."
+msgstr ""
+
+#: inc/customizer/sections/theme-options/top-news.php:27
+msgid "Show Top News"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/top-news.php:44
+msgid "Top News Title"
+msgstr ""
+
+#: inc/customizer/sections/theme-options/top-news.php:57
+msgid "Top News Category"
+msgstr ""
+
+#: inc/customizer/sections/upgrade-to-pro.php:14
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/demo-content.php:35
+msgid "Demo and Documentation"
+msgstr ""
+
+#: inc/demo-content.php:46
+msgid "Check out step-by-step tutorial to create your website like the demo of Magazine Newspaper WordPress theme."
+msgstr ""
+
+#: inc/demo-content.php:57
+msgid "Theme Demo"
+msgstr ""
+
+#: inc/demo-content.php:57
+#: inc/demo-content.php:58
+#: inc/demo-content.php:59
+msgid "Click Here"
+msgstr ""
+
+#: inc/demo-content.php:58
+msgid "Theme Details"
+msgstr ""
+
+#: inc/demo-content.php:59
+msgid "How to use"
+msgstr ""
+
+#: inc/template-tags.php:30
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:35
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:52
+#: inc/template-tags.php:58
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:54
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:60
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:66
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:66
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:66
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:70
+#: template-parts/content-page.php:88
+msgid "Edit"
+msgstr ""
+
+#: inc/widgets/widgets.php:13
+msgid "Main News Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:23
+msgid "Detail News Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:33
+msgid "Footer Widget"
+msgstr ""
+
+#: inc/woocommerce-functions.php:55
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/woocommerce-functions.php:57
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr ""
+
+#: layouts/header/header-layout-five__premium_only.php:54
+#: layouts/header/header-layout-four__premium_only.php:66
+#: layouts/header/header-layout-one.php:102
+#: layouts/header/header-layout-six__premium_only.php:54
+#: layouts/header/header-layout-three__premium_only.php:115
+#: layouts/header/header-layout-two__premium_only.php:101
+msgid "Toggle navigation"
+msgstr ""
+
+#: search.php:31
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Front Page"
+msgstr ""
+
+#: template-parts/content-blogs.php:16
+#: template-parts/content-page.php:60
+#: template-parts/content-single.php:61
+#: template-parts/content.php:62
+msgid "zero comment"
+msgstr ""
+
+#: template-parts/content-blogs.php:16
+#: template-parts/content-page.php:60
+#: template-parts/content-single.php:61
+#: template-parts/content.php:62
+msgid "one comment"
+msgstr ""
+
+#: template-parts/content-blogs.php:16
+msgid "comments"
+msgstr ""
+
+#: template-parts/content-blogs.php:36
+#: template-parts/content.php:95
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid "Nothing Found."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:34
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:60
+#: template-parts/content-single.php:61
+#: template-parts/content.php:62
+msgid "% comments"
+msgstr ""
+
+#: template-parts/content-page.php:79
+#: template-parts/content-single.php:84
+msgid "Pages:"
+msgstr ""

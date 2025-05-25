@@ -1,0 +1,234 @@
+# Translation of Themes - Magazine Newspaper in English (UK)
+# This file is distributed under the same license as the Themes - Magazine Newspaper package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-28 14:56:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Magazine Newspaper\n"
+
+#. Theme Name of the theme
+#: style.css inc/admin/dashboard.php:55 inc/admin/dashboard.php:58
+#, gp-priority: high
+msgid "Magazine Newspaper"
+msgstr "Magazine Newspaper"
+
+#: inc/customizer/sections/general-options/post-options.php:13
+msgid "Post Options"
+msgstr "Post Options"
+
+#: inc/admin/dashboard.php:111
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: inc/demo-content.php:59
+msgid "How to use"
+msgstr "How to use"
+
+#: inc/demo-content.php:58
+msgid "Theme Details"
+msgstr "Theme Details"
+
+#: inc/demo-content.php:57 inc/demo-content.php:58 inc/demo-content.php:59
+msgid "Click Here"
+msgstr "Click Here"
+
+#: inc/demo-content.php:57
+msgid "Theme Demo"
+msgstr "Theme Demo"
+
+#: inc/demo-content.php:46
+msgid "Check out step-by-step tutorial to create your website like the demo of Magazine Newspaper WordPress theme."
+msgstr "Check out step-by-step tutorial to create your website like the demo of Magazine Newspaper WordPress theme."
+
+#: inc/demo-content.php:35
+msgid "Demo and Documentation"
+msgstr "Demo and Documentation"
+
+#: inc/customizer/sections/header-options/social-media.php:12
+#: inc/customizer/sections/header-options/social-media.php:13
+#: inc/customizer/sections/header-options/social-media.php:50
+msgid "Social Media"
+msgstr "Social Media"
+
+#: inc/customizer/sections/theme-options/recent-news.php:108
+#: inc/customizer/sections/theme-options/recent-news.php:124
+msgid "Category News"
+msgstr "Category News"
+
+#: inc/customizer/sections/theme-options/top-news.php:13
+msgid "Top News"
+msgstr "Top News"
+
+#: inc/admin/dashboard.php:196
+msgid "Check Documentation"
+msgstr "Check documentation"
+
+#. Template Name of the theme
+msgid "Front Page"
+msgstr "Front Page"
+
+#: template-parts/content-page.php:60 template-parts/content-single.php:61
+#: template-parts/content.php:62
+msgid "% comments"
+msgstr "% comments"
+
+#: template-parts/content-none.php:34
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: template-parts/content-none.php:29
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: template-parts/content-none.php:17
+msgid "Nothing Found."
+msgstr "Nothing Found."
+
+#: template-parts/content-blogs.php:36 template-parts/content.php:95
+msgid "Read More"
+msgstr "Read More"
+
+#: template-parts/content-blogs.php:16
+msgid "comments"
+msgstr "comments"
+
+#: template-parts/content-blogs.php:16 template-parts/content-page.php:60
+#: template-parts/content-single.php:61 template-parts/content.php:62
+msgid "one comment"
+msgstr "one comment"
+
+#: search.php:31
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: template-parts/content-page.php:79 template-parts/content-single.php:84
+msgid "Pages:"
+msgstr "Pages:"
+
+#: inc/woocommerce-functions.php:57
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "Sidebar displaying only in woocommerce pages."
+
+#: inc/woocommerce-functions.php:55
+msgid "Shop Sidebar"
+msgstr "Shop Sidebar"
+
+#: inc/widgets/widgets.php:33
+msgid "Footer Widget"
+msgstr "Footer Widget"
+
+#: inc/template-tags.php:70 template-parts/content-page.php:88
+msgid "Edit"
+msgstr "Edit"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:52 inc/template-tags.php:58
+msgid ", "
+msgstr ", "
+
+#: inc/customizer/sections/theme-options/recent-news.php:119
+msgid "Title"
+msgstr "Title"
+
+#: layouts/header/header-layout-one.php:102
+msgid "Toggle navigation"
+msgstr "Toggle navigation"
+
+#: functions.php:84
+msgid "Top Menu"
+msgstr "Top Menu"
+
+#: footer.php:21
+msgid "Powered by"
+msgstr "Powered by"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "One thought on &ldquo;%s&rdquo;"
+
+#: 404.php:35
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: 404.php:30
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#: functions.php:85
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: footer.php:21
+msgid "Theme by"
+msgstr "Theme by"
+
+#: footer.php:21
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/customizer/sections/theme-options/breaking-news.php:13
+msgid "Breaking News"
+msgstr "Breaking News"
+
+#: inc/template-tags.php:66
+msgid "% Comments"
+msgstr "% Comments"
+
+#: inc/template-tags.php:66
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: inc/template-tags.php:66
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: inc/template-tags.php:60
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#: inc/template-tags.php:54
+msgid "Posted in %1$s"
+msgstr "Posted in %1$s"
+
+#: inc/template-tags.php:35
+msgctxt "post author"
+msgid "by %s"
+msgstr "by %s"
+
+#: inc/template-tags.php:30
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Posted on %s"
+
+#: template-parts/content-blogs.php:16 template-parts/content-page.php:60
+#: template-parts/content-single.php:61 template-parts/content.php:62
+msgid "zero comment"
+msgstr "zero comments"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "thebootstrapthemes"
+msgstr "thebootstrapthemes"
